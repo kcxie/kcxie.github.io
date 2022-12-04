@@ -521,3 +521,39 @@ img{
         }
     }
 }
+
+.job__descriptions {
+
+  list-style: square;
+  margin-left: 2%;
+}
+
+.date__range{
+  font-size: medium;
+}
+
+.Area{
+  font-size: medium;
+  font-weight: lighter;
+  display: flex;
+}
+
+.KG__description{
+  font-size: small;
+  text-align: center;
+}
+
+.KG__description_detail{
+  /*text-align: left;*/
+  font-size: small;
+}
+
+.KG__link{
+  font-size: small;
+  color: var(--second-color);
+  text-align: center;
+}
+
+.KG__link:hover{
+  color: var(--first-color);
+}
