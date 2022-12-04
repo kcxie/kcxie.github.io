@@ -437,7 +437,7 @@ img {
     width: 200px;
   }
 
-  .miscellenous__container img{
+  .miscellaneous__container img{
     width: 300px;
     margin-bottom: 2rem;
   }
@@ -491,12 +491,12 @@ img {
     justify-items: center;
   }
 
-  .miscellenous__container{
+  .miscellaneous__container{
     grid-template-columns: repeat(1, 1fr);
     column-gap: 2rem;
   }
 
-  .miscellenous__container img{
+  .miscellaneous__container img{
     width: 300px;
     /*bottom: 25%;*/
     margin-bottom: 2rem;
@@ -582,7 +582,7 @@ img {
     /*column-gap: 2rem;*/
   }
 
-  .miscellenous__container{
+  .miscellaneous__container{
     grid-template-columns: repeat(4, 2fr);
     row-gap:2rem;
   }
