@@ -642,3 +642,13 @@ img {
 .KG__link:hover{
   color: var(--first-color);
 }
+
+.KG__link__profile{
+  font-size: small;
+  font-weight: lighter;
+  color: var(--second-color);
+}
+
+.KG__link__profile:hover{
+  color: var(--first-color);
+}
